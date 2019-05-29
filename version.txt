@@ -1,1 +1,1 @@
-HMaker version: 2.1 (alfa)
+HMaker version: 2.1.1 (alpha)
