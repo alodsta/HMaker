@@ -1,5 +1,5 @@
 # HMaker
-It's usefull script for quick make C-header with all functions, structurse, defines e.t.c. from all .c and .h files in directory which u chose.
+It's useful script for quick make C-header with all functions, structurse, defines e.t.c. from all .c and .h files in directory which u chose.
 ## Installing
 **For instal copy in term:**  
 `curl https://raw.githubusercontent.com/alodsta/HMaker/master/HMaker-install.py | python` 
