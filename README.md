@@ -3,7 +3,8 @@ It's usefull script for quick make C-header with all functions, structurse, defi
 ## Installing
 **For instal copy in term:**  
 `curl https://raw.githubusercontent.com/alodsta/HMaker/master/HMaker-install.py | python` 
-Very simple. This script make directory `~/.HMaker`, put in HMaker and write alias in you'r .zshrc
+Very simple.  
+This script make directory `~/.HMaker`, put in HMaker and write alias in you'r .zshrc
 ## Updating
 `HMaker --update`
 ## How use?
