@@ -6,5 +6,5 @@ It's usefull script for quick make C-header with all functions, structurse, defi
 ## Updating
 `HMaker --update`
 ## How use?
-`HMaker --help`
+`HMaker --help`  
 If u want, u can change alias in `.zshrc`.
