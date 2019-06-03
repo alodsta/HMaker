@@ -1,1 +1,11 @@
-HMaker version: 2.1.1 (alpha)
+HMaker version: 2.2.0 (Betta)
+New in realise:
+    now syntax was changed:
+    HMaker [-s -r --version --update --path=path/to/header.h] {arg1, arg2, arg3 e.t.c.}
+
+Format:
+    You can give to HMaker many arguments and it's may be DIRECTORIES, FILE.C or FILE.H
+    For choose headername write args like : "file.c=headername.h file.h=headername.h som/dir=headername.h"
+
+    --path={headername.h} - all data will be put in ONE header named "headername.h"
+    -r - recursive parsing
