@@ -8,4 +8,4 @@ Format:
     For choose headername write args like : "file.c=headername.h file.h=headername.h som/dir=headername.h"
 
     --path={headername.h} - all data will be put in ONE header named "headername.h"
-    -r - recursive parsing
+    -r - recursive parsing (works ONLY with --path)
