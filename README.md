@@ -16,4 +16,4 @@ For choose `headername` write argument like this `directory/or_c-file/or_header-
 `-s` –– write header without commrtns.  
 `--version` ––write in term wersion of your HMaker.
 
-Good luck! And save your time!
+Good luck! Make with HMaker and save your time!
