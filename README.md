@@ -8,8 +8,12 @@ This script make directory `~/.HMaker`, put in HMaker and write alias in you'r .
 ## Updating
 `HMaker --update`
 ## How use?
-`HMaker "path/to/directory/with_srcs" "path/to/directory/where/you_want_put_your.h"`  
-If u want, u can change alias in `.zshrc`.
-If you skipping one or both arguments, HMaker will thinks that they `.`.
-If you'll specify both arguments as directories, then HMaker will names your header file seems like directory with srcs and put header in directory what you wrote second. It means that `HMaker` == `HMaker .` == `HMaker . .`  
-`HMaker -s [path, name.h]` – write header without c-files names in comment.
+`HMaker [-sr] arg1, arg2, arg3 e.t.c.` arguments may be `file.c`, `file.h` or `directories`.  
+If u want, u can change alias in `.zshrc`.  
+For choose `headername` write argument like this `directory/or_c-file/or_header-file.h=path/to/header/and/name.h`  
+`--path=` If u want put all data in *one* header use flag `--path=headername.h`  
+`-r` –– recursive parsing. working only with flag `--path`  
+`-s` –– write header without commrtns.  
+`--version` ––write in term wersion of your HMaker.
+
+Good luck! And save your time!
