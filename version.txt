@@ -1,1 +1,1 @@
-HMaker version: 2.2.2 (Betta)
+HMaker version: 2.2.3 (Betta)
